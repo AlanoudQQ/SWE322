@@ -13,4 +13,5 @@
 		}
 		
 		echo "hello";
+		echo "hello too";
     ?>
